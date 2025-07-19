@@ -1,9 +1,7 @@
-## Machine Learning Foundations with Python 
-### 90-803 - Spring 2024
 
 # Inclusive Scripts: Predicting Media Diversity and Bechdel Test Scores
 
-Raj Shah, Jhanvi Udani, Shambhavi Bhushan
+Jhanvi Udani
 
 ---
 
